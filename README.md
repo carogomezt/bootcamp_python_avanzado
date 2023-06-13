@@ -2,8 +2,8 @@
 
 Material de apoyo para las siguientes clases:
 
-- Clase 8 - Decoradores
-- Clase 9 - Proyecto con Decoradores
+- Clase 7 - Decoradores
+- Clase 8 - Proyecto con Decoradores
 - Clase 11 - Programación orientada a objetos pt1.
 - Clase 12 - Programación orientada a objetos pt2.
 
@@ -21,7 +21,7 @@ jupyter notebook
 
 ## Diapositivas:
 
-- Clase 8 - [Decoradores](https://docs.google.com/presentation/d/1v-y_Jj1Cb1rEL6wpBDWxxnj29F4yesMh6fz42pB98Yk/edit?usp=sharing)
-- Clase 9 - [Proyecto con Decoradores]()
+- Clase 7 - [Decoradores](https://docs.google.com/presentation/d/1v-y_Jj1Cb1rEL6wpBDWxxnj29F4yesMh6fz42pB98Yk/edit?usp=sharing)
+- Clase 8 - [Proyecto con Decoradores](https://docs.google.com/presentation/d/10F4SFmvGJ7ERfsQJOgs7ry66VznU4wSRXNP9LqTtvcw/edit?usp=sharing)
 - Clase 11 - [Programación orientada a objetos pt1.]()
 - Clase 12 - [Programación orientada a objetos pt2.]()
