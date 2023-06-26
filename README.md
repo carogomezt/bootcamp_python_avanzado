@@ -23,5 +23,5 @@ jupyter notebook
 
 - Clase 7 - [Decoradores](https://docs.google.com/presentation/d/1v-y_Jj1Cb1rEL6wpBDWxxnj29F4yesMh6fz42pB98Yk/edit?usp=sharing)
 - Clase 8 - [Proyecto con Decoradores](https://docs.google.com/presentation/d/10F4SFmvGJ7ERfsQJOgs7ry66VznU4wSRXNP9LqTtvcw/edit?usp=sharing)
-- Clase 11 - [Programación orientada a objetos pt1.]()
-- Clase 12 - [Programación orientada a objetos pt2.]()
+- Clase 11 - [Programación orientada a objetos pt1.](https://docs.google.com/presentation/d/1OkEpFGqExPZHnghdMRbtmpc-f_tYf2OLMxBP3AUPq0U/edit?usp=sharing)
+- Clase 12 - [Programación orientada a objetos pt2.](https://docs.google.com/presentation/d/1qVUsOIMeS_hp9KbTKAfEbQL4Gj1yZSCRqCjXc2Yo1hc/edit?usp=sharing)
